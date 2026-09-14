@@ -1,0 +1,7 @@
+{
+  "versionCode": 101,
+  "versionName": "v1.0.1",
+  "releaseNotes": "- Added Asteria: Constellation Shift game\n- Fixed hardware power button assistant trigger\n- Added Game Space soundtrack & settings toggle",
+  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v1.0.1/asteria.apk",
+  "isMandatory": false
+}
