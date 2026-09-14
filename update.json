@@ -1,7 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "v1.0.1",
-  "releaseNotes": "- Added Asteria: Constellation Shift game\n- Fixed hardware power button assistant trigger\n- Added Game Space soundtrack & settings toggle",
-  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v1.0.1/asteria.apk",
+  "versionCode": 102,
+  "versionName": "v1.0.2",
+  "releaseNotes": "- Added flagship game: Asteria: Constellation Shift\n- Fixed hardware power button digital assistant trigger\n- Integrated Game Space soundtrack with auto-play & settings toggle\n- Glassmorphic Assistant Overlay visual overhaul\n- Fixed bugs",
+  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v1.0.2/Asteria.apk",
   "isMandatory": false
 }
+
