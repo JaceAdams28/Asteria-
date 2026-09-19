@@ -1,8 +1,8 @@
 {
-  "versionCode": 121,
-  "versionName": "v1.2.1",
+  "versionCode": 126,
+  "versionName": "v1.2.6-beta15",
   "releaseNotes": "- Added new game in Asteria Game Space\n- Redesigned Software Update screen with fluid animations\n- Overhauled Digital Assistant overlay\n- Added card customization & language options\n- Improved translations & bug fixes",
-  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v1.2.1/Asteria-3.apk",
+  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v1.2.6-beta15/Asteria.apk",
   "isMandatory": false
 }
 
