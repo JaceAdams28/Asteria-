@@ -1,8 +1,8 @@
 {
-  "versionCode": 201,
-  "versionName": "v2.0.1-beta17",
+  "versionCode": 250,
+  "versionName": "v2.5.0-beta18",
   "releaseNotes": "- updated new game in Asteria Game Space ui\n- Redesigned Software Update screen with fluid animations\n- Added new Asteria Connect \n- fixed customization & language options bug\n- Improved translations & enhanced user experience",
-  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v2.0.1/Asteria-4.apk",
+  "downloadUrl": "https://github.com/JaceAdams28/Asteria-/releases/download/v2.5.0-beta18/Asteria-2.apk",
   "isMandatory": false
 }
 
